@@ -29,6 +29,8 @@
   <string name="tilt_sensor_title">Датчик наклона</string>
   <!-- Proximity sensor -->
   <string name="proximity_sensor_title">Датчик приближения</string>
+         <!-- Pickup sensor -->
+    <string name="pickup_sensor_title">Датчик наклона</string>
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">Взмах рукой</string>
   <string name="hand_wave_gesture_summary">Проведите ладонью над экраном для просмотра уведомлений</string>
@@ -41,6 +43,9 @@
   <!-- Proximity wake -->
   <string name="proximity_wake_title">Включение по датчикам</string>
   <string name="proximity_wake_enable_summary">Проведите ладонью над экраном, чтобы вывести устройство из режима сна</string>
+         <!-- Wake on gesture -->
+    <string name="wake_on_gesture_title">Просыпаться от жестов</string>
+    <string name="wake_on_gesture_summary">Будить устройство вместо пульсирующих уведомлений при использовании жестов</string>
   <!-- Dialog texts -->
   <string name="dialog_ok">OK</string>
   <!-- Help texts -->
